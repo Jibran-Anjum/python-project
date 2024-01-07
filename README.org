@@ -1,7 +1,9 @@
 * Table of Contents
 
 [[Why I Chose this Project]]
+
 [[About the Game]]
+
 [[UML Diagram]]
 
 * Why I Chose this Project
