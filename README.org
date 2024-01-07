@@ -3,11 +3,11 @@
 
 * Table of Contents
 
-+ [[Why I Chose this Project]]
++ [[Why I Chose this Project][Why I Chose this Project]]
 
-+ [[About the Game]]
++ [[About the Game][About the Game]]
 
-+ [[UML Diagram]]
++ [[UML Diagram][UML Diagram]]
 
 * Why I Chose this Project
 The main reason behind me choosing to do this project, is because I like playing games.So, I wanted to see if I'm
